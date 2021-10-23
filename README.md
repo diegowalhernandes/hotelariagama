@@ -31,3 +31,8 @@ Check out Entre com o CPF Calcula valor das diarias *** e calcular o Reconsumo (
 Relatório de quartos (ocupados e reservados)
 
 SAIR Apresentar "Obrigado por usar o HOTELARIA GAMA"
+
+Segue abaixo o Fluxograma das tabelas:
+
+![image](https://user-images.githubusercontent.com/92685388/138569209-a11e6c74-3032-4c91-a977-23bc3a6efef4.png)
+
