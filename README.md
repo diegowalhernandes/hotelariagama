@@ -31,7 +31,7 @@ CHECK-IN >> Realizar o check-in e a reserva do quarto
   
      1. Entre com o código da reserva ( através do código do hóspede vai localizar os demais dados inclusive a data da do check-in )
      
-     2. Realiza o Check-in no quarto reservado 
+     2. Realiza o Check-in no quarto reservado  
      
      3. Altera de quarto reservado para quarto ocupado.
      
