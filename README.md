@@ -12,7 +12,7 @@ Abaixo está o Menu Principal de forma detalhada:
 
        |||       M e n u   H o t e l a r i a   G a m a       |||
 
-Reserva de Quarto >>
+RESERVA DE QUARTO >>
      Realiza o cadastro do hóspede e reserva o quarto 
      
      1. Código do hóspede (automático) 
@@ -27,7 +27,7 @@ Reserva de Quarto >>
      
      6. Data de saida
 
-Check-in >> Realizar o check-in e a reserva do quarto
+CHECK-IN >> Realizar o check-in e a reserva do quarto
   
      1. Entre com o código da reserva ( através do código do hóspede vai localizar os demais dados inclusive a data da do check-in )
      
@@ -35,7 +35,7 @@ Check-in >> Realizar o check-in e a reserva do quarto
      
      3. Altera de quarto reservado para quarto ocupado.
      
-  Check out >> Realiza a saida do hóspede e libera o quarto
+  CHECK-OUT >> Realiza a saida do hóspede e libera o quarto
 
      1. Entre com o código da reserva para localizar os demais dados do hóspede
      
