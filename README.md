@@ -1,7 +1,7 @@
 # hotelariagama
 projeto final gama
 
-O projeto refere-se a um programa em Python que gerencia quatro das principais das funções de um sistema degerenciamento de um Hotel:
+O projeto refere-se a um programa em Python que gerencia quatro das principais funções de um sistema degerenciamento de um Hotel:
 
 A reserva do hóspede
 A consulta da reserva
