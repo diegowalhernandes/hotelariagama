@@ -13,12 +13,10 @@ Abaixo está o Menu Principal de forma detahada:
 Menu Hotelaria Gama
 
 Reserva de Quarto
-
-Consulta dos quartos >> Relatório de quartos (livres, reservados e ocupados)
-Reserva de Quarto  e realizar o cadastro do hóspede 1. Código do hóspede (automático) 2. Nome do hóspede 3. CPF: 4. Telefone:
+     Reserva de Quarto  e realizar o cadastro do hóspede 1. Código do hóspede (automático) 2. Nome do hóspede 3. CPF: 4. Telefone:
 
 Check-in
-Realizar o check-in e a reserva do quarto
+     Realizar o check-in e a reserva do quarto
   Check-in 
      Entre com o código da reserva ( através do código do hóspede vai localizar os demais dados inclusive a data da do check-in )
      Realiza o Check-in no quarto reservado e altera de quarto reservado para quarto ocupado.
