@@ -21,7 +21,7 @@ RESERVA DE QUARTO >>
      
      3. CPF: 
      
-     4. Telefone:
+     4. Telefone com DDD:
      
      5. Data de entrada:
      
