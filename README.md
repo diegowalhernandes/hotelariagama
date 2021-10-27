@@ -25,7 +25,7 @@ RESERVA DE QUARTO >>
      
      5. Data de entrada:
      
-     6. Data de saida
+     6. Data de saida:
 
 CHECK-IN >> Realizar o check-in e a reserva do quarto
   
